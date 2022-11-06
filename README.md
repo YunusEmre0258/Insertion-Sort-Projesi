@@ -15,6 +15,7 @@
 ## soru 2
 Avarage case: O(nn)=O(n^2) Best case: O(n) Worst Case: O(nn)=O(n^2)
 
+# soru 3
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
  ## soru 4
